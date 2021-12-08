@@ -1,0 +1,124 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+/* CSS Document */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    clear: both;
+    position: relative;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.action,
+.result {
+    display: flex;
+    width: 100%;
+    position: relative;
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 400;
+    padding: 16px 0;
+}
+
+.action {
+    height: 40px;
+}
+
+.action .periodPicker {
+    display: inline-flex;
+    position: relative;
+    margin-left: auto;
+    width: 200px;
+    right: 10px;
+    align-items: center;
+}
+
+.action #timeSelector {
+    padding-right: 6px;
+}
+
+.result {
+    height: 70px;
+    justify-content: space-between;
+}
+
+.result .widget {
+    display: block;
+    width: 235px;
+    height: 49px;
+    padding: 13px 13px 6px 13px;
+    background: #FFFFFF;
+    text-align: left;
+}
+
+.result .widget span{
+    font-size: 16px;
+    line-height: 14px;
+}
+
+.result .widget div {
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.result .widget .balance{
+    color: #13A9CA;
+}
+
+.result .widget .change{
+    color: #DB8F36;
+}
+
+.result .widget .expenses{
+    color: #EB0B0B;
+}
+
+.result .widget .income{
+    color: #41D734;
+}
+
+.graphContainer {
+    display: block;
+    height: 400px;
+    background-color: #FFFFFF;
+    padding: 10px;
+    margin: 16px 0;
+    text-align: left;
+}
+
+.graphTitle {
+    font-size: 18px;
+    line-height: 21px;
+}
+
+.graphContainer .chart {
+    position: relative;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.categories {
+    display: flex;
+}
+
+.categories .income,
+.categories .expenses{
+    display: flex;
+    width: 50%;
+    height: 368px;
+    justify-content: center;
+    align-items: center;
+}
+
+.savingTargetContainer {
+    display: flex;
+    margin-bottom: 2%;
+    justify-content: space-between;
+}

@@ -1,0 +1,46 @@
+.login {
+    text-align: left;
+    height: 100%;
+    margin: 5% 10% 10% 5%;
+}
+
+.loginTitle {
+    font-size: 3em;
+    padding-left: 100px;
+    position: absolute;
+    top: 8%;
+    right: 8%;
+    
+}
+
+ .backgroundImageContainer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 60%;
+    width: 40%;
+}
+
+.backgroundImage {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 100%;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.backgroundReactangleContainer {
+    position: absolute;
+    top: 0;
+    left: -20%;
+    height: 100%;
+    width: 60%;
+}
+
+.backgroundRecatngle {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}

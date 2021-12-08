@@ -1,0 +1,1237 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot with no content matches (currency) 1`] = `
+<div>
+  <form>
+    <div
+      className="MuiFormControl-root MuiTextField-root"
+      style={
+        Object {
+          "margin": "30px",
+          "width": "300px",
+        }
+      }
+    >
+      <div
+        className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-formControl"
+        onClick={[Function]}
+      >
+        <input
+          aria-invalid={false}
+          autoFocus={false}
+          className="MuiInputBase-input MuiOutlinedInput-input"
+          disabled={false}
+          onAnimationStart={[Function]}
+          onBlur={[Function]}
+          onChange={[Function]}
+          onFocus={[Function]}
+          placeholder="Search by name (e.g. bitcoin)"
+          required={false}
+          type="text"
+        />
+        <fieldset
+          aria-hidden={true}
+          className="PrivateNotchedOutline-root-4 MuiOutlinedInput-notchedOutline"
+          style={
+            Object {
+              "paddingLeft": 8,
+            }
+          }
+        >
+          <legend
+            className="PrivateNotchedOutline-legend-5"
+            style={
+              Object {
+                "width": 0.01,
+              }
+            }
+          >
+            <span
+              dangerouslySetInnerHTML={
+                Object {
+                  "__html": "&#8203;",
+                }
+              }
+            />
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+  </form>
+  <div
+    className="titleContainer"
+  >
+    <div
+      className="title"
+    >
+      <h3
+        style={
+          Object {
+            "marginLeft": "60px",
+          }
+        }
+      >
+        Cryptocurrency
+      </h3>
+      <h3
+        style={
+          Object {
+            "marginLeft": "230px",
+          }
+        }
+      >
+        Price
+      </h3>
+      <h3
+        style={
+          Object {
+            "marginLeft": "70px",
+            "marginRight": "90px",
+          }
+        }
+      >
+        Change(24h)
+      </h3>
+      <h3
+        style={
+          Object {
+            "marginRight": "90px",
+          }
+        }
+      >
+        Market Cap
+      </h3>
+    </div>
+  </div>
+  <h5
+    className="MuiTypography-root MuiTypography-h5"
+    style={
+      Object {
+        "marginTop": "15%",
+      }
+    }
+  >
+    Loading... If it takes too long, please try again later or contact our developers.
+    <svg
+      aria-hidden={true}
+      className="MuiSvgIcon-root"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <circle
+        cx="15.5"
+        cy="9.5"
+        r="1.5"
+      />
+      <circle
+        cx="8.5"
+        cy="9.5"
+        r="1.5"
+      />
+      <path
+        d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8zm0-6c-2.33 0-4.32 1.45-5.12 3.5h1.67c.69-1.19 1.97-2 3.45-2s2.75.81 3.45 2h1.67c-.8-2.05-2.79-3.5-5.12-3.5z"
+      />
+    </svg>
+  </h5>
+</div>
+`;
+
+exports[`snapshot with no content matches (login) 1`] = `
+<div
+  className="login"
+>
+  <div
+    className="backgroundReactangleContainer"
+  >
+    <img
+      alt="BackgroundRectangle"
+      className="backgroundRecatngle"
+      src="loginRectangle.svg"
+    />
+  </div>
+  <div
+    className="MuiPaper-root makeStyles-paper-1 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <form
+      className="makeStyles-form-3"
+    >
+      <div
+        className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        onInput={[Function]}
+        style={
+          Object {
+            "margin": "15px 0px",
+            "width": "100%",
+          }
+        }
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink={false}
+          htmlFor="username-textfield"
+          id="username-textfield-label"
+        >
+          Username
+        </label>
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            autoFocus={false}
+            className="MuiInputBase-input MuiOutlinedInput-input"
+            disabled={false}
+            id="username-textfield"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="text"
+          />
+          <fieldset
+            aria-hidden={true}
+            className="PrivateNotchedOutline-root-4 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              className="PrivateNotchedOutline-legendLabelled-6"
+            >
+              <span>
+                Username
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <div
+        className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        onInput={[Function]}
+        style={
+          Object {
+            "margin": "15px 0px",
+            "width": "100%",
+          }
+        }
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink={false}
+          htmlFor="password-textfield"
+          id="password-textfield-label"
+        >
+          Password
+        </label>
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            autoFocus={false}
+            className="MuiInputBase-input MuiOutlinedInput-input"
+            disabled={false}
+            id="password-textfield"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="password"
+          />
+          <fieldset
+            aria-hidden={true}
+            className="PrivateNotchedOutline-root-4 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              className="PrivateNotchedOutline-legendLabelled-6"
+            >
+              <span>
+                Password
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-submit-2 MuiButton-containedPrimary Mui-disabled MuiButton-fullWidth Mui-disabled"
+        disabled={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={-1}
+        type="submit"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Login
+        </span>
+      </button>
+      <div
+        className="signUpText"
+        style={
+          Object {
+            "padding": "5px",
+            "textAlign": "center",
+          }
+        }
+      >
+        <span>
+           Don't have an account ? 
+        </span>
+        <a
+          href="/signup"
+          onClick={[Function]}
+        >
+           Sign Up Here 
+        </a>
+      </div>
+      <h1
+        className="loginTitle"
+      >
+        Hello, 
+        <br />
+         Welcome back
+      </h1>
+    </form>
+  </div>
+  <div
+    className="backgroundImageContainer"
+  >
+    <img
+      alt="Background"
+      className="backgroundImage"
+      src="loginImage.svg"
+    />
+  </div>
+</div>
+`;
+
+exports[`snapshot with no content matches (signup) 1`] = `
+<div
+  className="signup"
+>
+  <div
+    className="MuiPaper-root makeStyles-paper-8 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div>
+      <div>
+        <img
+          alt="logo"
+          className="logo"
+          src="logo.svg"
+        />
+      </div>
+      <h1
+        style={
+          Object {
+            "fontSize": "3.3em",
+          }
+        }
+      >
+        Money++
+      </h1>
+    </div>
+    <form
+      className="makeStyles-form-10"
+    >
+      <div
+        className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        onInput={[Function]}
+        style={
+          Object {
+            "margin": "15px 0px",
+            "width": "100%",
+          }
+        }
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink={false}
+          htmlFor="username-textfield"
+          id="username-textfield-label"
+        >
+          Username
+        </label>
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl"
+          onClick={[Function]}
+        >
+          <input
+            aria-describedby="username-textfield-helper-text"
+            aria-invalid={false}
+            autoFocus={false}
+            className="MuiInputBase-input MuiOutlinedInput-input"
+            disabled={false}
+            id="username-textfield"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="text"
+            value=""
+          />
+          <fieldset
+            aria-hidden={true}
+            className="PrivateNotchedOutline-root-4 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              className="PrivateNotchedOutline-legendLabelled-6"
+            >
+              <span>
+                Username
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+        <p
+          className="MuiFormHelperText-root MuiFormHelperText-contained"
+          id="username-textfield-helper-text"
+        >
+            ( only letters, numbers, and underscores )
+        </p>
+      </div>
+      <div
+        className="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        onInput={[Function]}
+        style={
+          Object {
+            "margin": "15px 0px",
+            "width": "100%",
+          }
+        }
+      >
+        <label
+          className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined"
+          data-shrink={false}
+          htmlFor="password-textfield"
+          id="password-textfield-label"
+        >
+          Password
+        </label>
+        <div
+          className="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedEnd MuiOutlinedInput-adornedEnd"
+          onClick={[Function]}
+        >
+          <input
+            aria-invalid={false}
+            autoFocus={false}
+            className="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedEnd MuiOutlinedInput-inputAdornedEnd"
+            disabled={false}
+            id="password-textfield"
+            onAnimationStart={[Function]}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onFocus={[Function]}
+            required={false}
+            type="password"
+            value=""
+          />
+          <div
+            className="MuiInputAdornment-root MuiInputAdornment-positionEnd"
+          >
+            <button
+              aria-label="toggle password visibility"
+              className="MuiButtonBase-root MuiIconButton-root"
+              disabled={false}
+              onBlur={[Function]}
+              onClick={[Function]}
+              onDragLeave={[Function]}
+              onFocus={[Function]}
+              onKeyDown={[Function]}
+              onKeyUp={[Function]}
+              onMouseDown={[Function]}
+              onMouseLeave={[Function]}
+              onMouseUp={[Function]}
+              onTouchEnd={[Function]}
+              onTouchMove={[Function]}
+              onTouchStart={[Function]}
+              tabIndex={0}
+              type="button"
+            >
+              <span
+                className="MuiIconButton-label"
+              >
+                <svg
+                  aria-hidden={true}
+                  className="MuiSvgIcon-root"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 7c2.76 0 5 2.24 5 5 0 .65-.13 1.26-.36 1.83l2.92 2.92c1.51-1.26 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-3.98.7l2.16 2.16C10.74 7.13 11.35 7 12 7zM2 4.27l2.28 2.28.46.46C3.08 8.3 1.78 10.02 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.42.42L19.73 22 21 20.73 3.27 3 2 4.27zM7.53 9.8l1.55 1.55c-.05.21-.08.43-.08.65 0 1.66 1.34 3 3 3 .22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53-2.76 0-5-2.24-5-5 0-.79.2-1.53.53-2.2zm4.31-.78l3.15 3.15.02-.16c0-1.66-1.34-3-3-3l-.17.01z"
+                  />
+                </svg>
+              </span>
+              <span
+                className="MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+          <fieldset
+            aria-hidden={true}
+            className="PrivateNotchedOutline-root-4 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              className="PrivateNotchedOutline-legendLabelled-6"
+            >
+              <span>
+                Password
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-submit-9 MuiButton-containedPrimary Mui-disabled MuiButton-fullWidth Mui-disabled"
+        disabled={true}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={-1}
+        type="submit"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          Sign up
+        </span>
+      </button>
+      <div
+        style={
+          Object {
+            "padding": "5px",
+            "textAlign": "center",
+          }
+        }
+      >
+        <span>
+           Already have an account ? 
+        </span>
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+           Login Here 
+        </a>
+      </div>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`snapshot with no content matches (summary) 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="action"
+  >
+    <div
+      className="periodPicker"
+    >
+      <label
+        className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated"
+        id="timeSelector"
+      >
+        Time Period:
+      </label>
+      <div
+        className="MuiInputBase-root MuiInput-root MuiInput-underline"
+        onClick={[Function]}
+      >
+        <div
+          aria-haspopup="listbox"
+          aria-labelledby="selectWeeks demo-simple-select"
+          className="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+          id="demo-simple-select"
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onMouseDown={[Function]}
+          role="button"
+          tabIndex={0}
+        >
+          3 months
+        </div>
+        <input
+          aria-hidden={true}
+          className="MuiSelect-nativeInput"
+          onAnimationStart={[Function]}
+          onChange={[Function]}
+          tabIndex={-1}
+          value="last_three_months"
+        />
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiSelect-icon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div
+    className="result"
+  >
+    <div
+      className="widget"
+    >
+      <span>
+        Current Wallet Balance
+      </span>
+      <div
+        className="balance"
+      >
+        0.00
+         NZD
+      </div>
+    </div>
+    <div
+      className="widget"
+    >
+      <span>
+        Total Period Balance
+      </span>
+      <div
+        className="change"
+      >
+        0.00
+         NZD
+      </div>
+    </div>
+    <div
+      className="widget"
+    >
+      <span>
+        Total Period Expenses
+      </span>
+      <div
+        className="expenses"
+      >
+        0.00
+         NZD
+      </div>
+    </div>
+    <div
+      className="widget"
+    >
+      <span>
+        Total Period Income
+      </span>
+      <div
+        className="income"
+      >
+        0.00
+         NZD
+      </div>
+    </div>
+  </div>
+  <div
+    className="graphContainer"
+  >
+    <span
+      className="graphTitle"
+    >
+      Changes
+    </span>
+    <div
+      className="chart"
+    >
+      <canvas
+        data-testid="canvas"
+        height={150}
+        onClick={[Function]}
+        role="img"
+        width={300}
+      />
+    </div>
+  </div>
+  <div
+    className="graphContainer"
+  >
+    <span
+      className="graphTitle"
+    >
+      Categories
+    </span>
+    <div
+      className="categories"
+    >
+      <div
+        className="income"
+      >
+        <canvas
+          data-testid="canvas"
+          height={150}
+          onClick={[Function]}
+          role="img"
+          width={300}
+        />
+      </div>
+      <div
+        className="expenses"
+      >
+        <canvas
+          data-testid="canvas"
+          height={150}
+          onClick={[Function]}
+          role="img"
+          width={300}
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`snapshot with no content matches (tips) 1`] = `
+<div>
+  <div
+    className="tipsTitle"
+  >
+    Financial Tips
+  </div>
+  <ul
+    className="tipsContent"
+  />
+  <button
+    className="MuiButtonBase-root MuiButton-root MuiButton-contained loadMore MuiButton-containedSecondary"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onDragLeave={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex={0}
+    type="button"
+  >
+    <span
+      className="MuiButton-label"
+    >
+      <span
+        className="MuiButton-startIcon MuiButton-iconSizeMedium"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7.11 8.53L5.7 7.11C4.8 8.27 4.24 9.61 4.07 11h2.02c.14-.87.49-1.72 1.02-2.47zM6.09 13H4.07c.17 1.39.72 2.73 1.62 3.89l1.41-1.42c-.52-.75-.87-1.59-1.01-2.47zm1.01 5.32c1.16.9 2.51 1.44 3.9 1.61V17.9c-.87-.15-1.71-.49-2.46-1.03L7.1 18.32zM13 4.07V1L8.45 5.55 13 10V6.09c2.84.48 5 2.94 5 5.91s-2.16 5.43-5 5.91v2.02c3.95-.49 7-3.85 7-7.93s-3.05-7.44-7-7.93z"
+          />
+        </svg>
+      </span>
+      Load More
+    </span>
+  </button>
+</div>
+`;
+
+exports[`snapshot with no content matches (transaction) 1`] = `
+<div
+  className="container"
+>
+  <div
+    className="action"
+  >
+    <div>
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-contained"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <span
+            className="MuiButton-startIcon MuiButton-iconSizeMedium"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+              />
+            </svg>
+          </span>
+          Add Transaction
+        </span>
+      </button>
+    </div>
+    <div
+      style={
+        Object {
+          "marginLeft": "1%",
+        }
+      }
+    >
+      <button
+        className="MuiButtonBase-root MuiButton-root MuiButton-contained"
+        disabled={false}
+        onBlur={[Function]}
+        onClick={[Function]}
+        onDragLeave={[Function]}
+        onFocus={[Function]}
+        onKeyDown={[Function]}
+        onKeyUp={[Function]}
+        onMouseDown={[Function]}
+        onMouseLeave={[Function]}
+        onMouseUp={[Function]}
+        onTouchEnd={[Function]}
+        onTouchMove={[Function]}
+        onTouchStart={[Function]}
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="MuiButton-label"
+        >
+          <span
+            className="MuiButton-startIcon MuiButton-iconSizeMedium"
+          >
+            <svg
+              aria-hidden={true}
+              className="MuiSvgIcon-root"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm5 11h-4v4h-2v-4H7v-2h4V7h2v4h4v2z"
+              />
+            </svg>
+          </span>
+          Set Saving Target
+        </span>
+      </button>
+    </div>
+    <div
+      className="periodPicker"
+    >
+      <label
+        className="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-animated"
+        id="timeSelector"
+      >
+        Time Period:
+      </label>
+      <div
+        className="MuiInputBase-root MuiInput-root MuiInput-underline"
+        onClick={[Function]}
+      >
+        <div
+          aria-haspopup="listbox"
+          aria-labelledby="selectWeeks demo-simple-select"
+          className="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+          id="demo-simple-select"
+          onBlur={[Function]}
+          onFocus={[Function]}
+          onKeyDown={[Function]}
+          onMouseDown={[Function]}
+          role="button"
+          tabIndex={0}
+        >
+          All
+        </div>
+        <input
+          aria-hidden={true}
+          className="MuiSelect-nativeInput"
+          onAnimationStart={[Function]}
+          onChange={[Function]}
+          tabIndex={-1}
+          value="all"
+        />
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root MuiSelect-icon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+      </div>
+    </div>
+  </div>
+  <div
+    className="result"
+  >
+    <div
+      className="widget"
+    >
+      <span>
+        Current Wallet Balance
+      </span>
+      <div
+        className="balance"
+      >
+        0.00
+         NZD
+      </div>
+    </div>
+    <div
+      className="widget"
+    >
+      <span>
+        Total Period Balance
+      </span>
+      <div
+        className="change"
+      >
+        0.00
+         NZD
+      </div>
+    </div>
+    <div
+      className="widget"
+    >
+      <span>
+        Total Period Expenses
+      </span>
+      <div
+        className="expenses"
+      >
+        0.00
+         NZD
+      </div>
+    </div>
+    <div
+      className="widget"
+    >
+      <span>
+        Total Period Income
+      </span>
+      <div
+        className="income"
+      >
+        0.00
+         NZD
+      </div>
+    </div>
+  </div>
+  <div
+    className="savingTargetContainer"
+  >
+    <div
+      className="MuiPaper-root MuiCard-root makeStyles-cardRoot-11 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        className="MuiCardContent-root"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          Short-Term
+           Saving Target
+        </h6>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-colorTextSecondary"
+        >
+          You do not have any 
+          Short-Term
+           saving target yet
+        </p>
+      </div>
+    </div>
+    <div
+      className="MuiPaper-root MuiCard-root makeStyles-cardRoot-11 MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <div
+        className="MuiCardContent-root"
+      >
+        <h6
+          className="MuiTypography-root MuiTypography-h6"
+        >
+          Long-Term
+           Saving Target
+        </h6>
+        <p
+          className="MuiTypography-root MuiTypography-body1 MuiTypography-colorTextSecondary"
+        >
+          You do not have any 
+          Long-Term
+           saving target yet
+        </p>
+      </div>
+    </div>
+  </div>
+  <div
+    className="MuiPaper-root makeStyles-root-13 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      className="MuiTableContainer-root makeStyles-container-14"
+    >
+      <table
+        aria-label="sticky table"
+        className="MuiTable-root MuiTable-stickyHeader"
+        role={null}
+      >
+        <thead
+          className="MuiTableHead-root"
+          role={null}
+        >
+          <tr
+            className="MuiTableRow-root MuiTableRow-head"
+            role={null}
+          >
+            <th
+              aria-sort={null}
+              className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-stickyHeader"
+              scope="col"
+              style={
+                Object {
+                  "minWidth": 140,
+                }
+              }
+            >
+              Date
+            </th>
+            <th
+              aria-sort={null}
+              className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-stickyHeader"
+              scope="col"
+              style={
+                Object {
+                  "minWidth": 100,
+                }
+              }
+            >
+              Type
+            </th>
+            <th
+              aria-sort={null}
+              className="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader"
+              scope="col"
+              style={
+                Object {
+                  "minWidth": 100,
+                }
+              }
+            >
+              Category
+            </th>
+            <th
+              aria-sort={null}
+              className="MuiTableCell-root MuiTableCell-head MuiTableCell-stickyHeader"
+              scope="col"
+              style={
+                Object {
+                  "minWidth": 200,
+                }
+              }
+            >
+              Description
+            </th>
+            <th
+              aria-sort={null}
+              className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignRight MuiTableCell-stickyHeader"
+              scope="col"
+              style={
+                Object {
+                  "minWidth": 100,
+                }
+              }
+            >
+              Amount
+            </th>
+            <th
+              aria-sort={null}
+              className="MuiTableCell-root MuiTableCell-head MuiTableCell-alignCenter MuiTableCell-stickyHeader"
+              scope="col"
+              style={
+                Object {
+                  "minWidth": 100,
+                }
+              }
+            >
+              Action
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          className="MuiTableBody-root"
+          role={null}
+        />
+      </table>
+    </div>
+    <div
+      className="MuiTablePagination-root"
+    >
+      <div
+        className="MuiToolbar-root MuiToolbar-regular MuiTablePagination-toolbar MuiToolbar-gutters"
+      >
+        <div
+          className="MuiTablePagination-spacer"
+        />
+        <p
+          className="MuiTypography-root MuiTablePagination-caption MuiTypography-body2 MuiTypography-colorInherit"
+        >
+          Rows per page:
+        </p>
+        <div
+          className="MuiInputBase-root MuiTablePagination-input MuiTablePagination-selectRoot"
+          onClick={[Function]}
+        >
+          <div
+            aria-haspopup="listbox"
+            className="MuiSelect-root MuiSelect-select MuiTablePagination-select MuiSelect-selectMenu MuiInputBase-input"
+            onBlur={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onMouseDown={[Function]}
+            role="button"
+            tabIndex={0}
+          >
+            10
+          </div>
+          <input
+            aria-hidden={true}
+            className="MuiSelect-nativeInput"
+            onAnimationStart={[Function]}
+            onChange={[Function]}
+            tabIndex={-1}
+            value={10}
+          />
+          <svg
+            aria-hidden={true}
+            className="MuiSvgIcon-root MuiSelect-icon MuiTablePagination-selectIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+        </div>
+        <p
+          className="MuiTypography-root MuiTablePagination-caption MuiTypography-body2 MuiTypography-colorInherit"
+        >
+          0-0 of 0
+        </p>
+        <div
+          className="MuiTablePagination-actions"
+        >
+          <button
+            aria-label="Previous page"
+            className="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit Mui-disabled Mui-disabled"
+            disabled={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={-1}
+            title="Previous page"
+            type="button"
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M15.41 16.09l-4.58-4.59 4.58-4.59L14 5.5l-6 6 6 6z"
+                />
+              </svg>
+            </span>
+          </button>
+          <button
+            aria-label="Next page"
+            className="MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit Mui-disabled Mui-disabled"
+            disabled={true}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={-1}
+            title="Next page"
+            type="button"
+          >
+            <span
+              className="MuiIconButton-label"
+            >
+              <svg
+                aria-hidden={true}
+                className="MuiSvgIcon-root"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M8.59 16.34l4.58-4.59-4.58-4.59L10 5.75l6 6-6 6z"
+                />
+              </svg>
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

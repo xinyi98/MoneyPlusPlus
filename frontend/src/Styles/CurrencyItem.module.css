@@ -1,0 +1,25 @@
+.container {
+    justify-content: center;
+    display: flex;
+}
+
+.eachLine{
+  width: 1000px;
+  height: 100px;
+  display: flex;
+  flex-direction: row;
+  border-bottom: 0.8px solid ;
+  border-color: #8ED4F0;
+}
+
+.info {
+    display: flex;
+    align-items: center;
+    padding-right: 24px;
+    width: 400px;
+}
+
+.data{
+    display: flex;
+    align-items: center;
+}

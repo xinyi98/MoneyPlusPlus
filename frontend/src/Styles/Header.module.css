@@ -1,0 +1,90 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+/* CSS Document */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header,
+.logo,
+.profile,
+.login {
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 68px;
+}
+
+.header {
+    display: flex;
+    width: 100%;
+    height: 68px;
+    align-items: center;
+    background: #FFFFFF;
+}
+
+.header ul {
+    display: flex;
+    width: 60%;
+    margin-right: auto;
+    justify-content: center;
+}
+
+.header ul li{
+    display: flex;
+    width: 144px;
+    height: 68px;
+    text-align: center;
+    list-style-type: none;
+    margin: 20px;
+}
+
+.header ul li a{
+    width: 100%;
+    color: #000000;
+    text-decoration: none;
+}
+
+.header ul li:hover a{
+    color: #1289EA;
+}
+
+.select {
+    color: #1289EA !important;
+    border-bottom: 3px solid #1289EA;
+}
+.logo {
+    display: flex;
+    position: relative;
+    width: 20%;
+    height: 100%;
+    line-height: 68px;
+    align-items: center;
+    left: 20px;
+}
+
+.logo img {
+    width: 48px;
+    height: 48px;
+}
+
+.profile,
+.login
+{
+    display: flex;
+    position: relative;
+    width: 20%;
+    right: 20px;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.profile .name {
+    margin: 0 10px;
+}
+
+.hidden {
+    display: none;
+}
